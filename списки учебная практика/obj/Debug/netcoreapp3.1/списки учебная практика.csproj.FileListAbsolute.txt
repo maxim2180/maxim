@@ -1,0 +1,14 @@
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\bin\Debug\netcoreapp3.1\списки учебная практика.exe
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\bin\Debug\netcoreapp3.1\списки учебная практика.deps.json
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\bin\Debug\netcoreapp3.1\списки учебная практика.runtimeconfig.json
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\bin\Debug\netcoreapp3.1\списки учебная практика.runtimeconfig.dev.json
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\bin\Debug\netcoreapp3.1\списки учебная практика.dll
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\bin\Debug\netcoreapp3.1\списки учебная практика.pdb
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\obj\Debug\netcoreapp3.1\списки учебная практика.csproj.AssemblyReference.cache
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\obj\Debug\netcoreapp3.1\списки учебная практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\obj\Debug\netcoreapp3.1\списки учебная практика.AssemblyInfoInputs.cache
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\obj\Debug\netcoreapp3.1\списки учебная практика.AssemblyInfo.cs
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\obj\Debug\netcoreapp3.1\списки учебная практика.csproj.CoreCompileInputs.cache
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\obj\Debug\netcoreapp3.1\списки учебная практика.dll
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\obj\Debug\netcoreapp3.1\списки учебная практика.pdb
+C:\Users\makss\source\repos\списки учебная практика\списки учебная практика\obj\Debug\netcoreapp3.1\списки учебная практика.genruntimeconfig.cache
