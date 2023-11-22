@@ -1,0 +1,14 @@
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\bin\Debug\netcoreapp3.1\задание 6 тестирование.exe
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\bin\Debug\netcoreapp3.1\задание 6 тестирование.deps.json
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\bin\Debug\netcoreapp3.1\задание 6 тестирование.runtimeconfig.json
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\bin\Debug\netcoreapp3.1\задание 6 тестирование.runtimeconfig.dev.json
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\bin\Debug\netcoreapp3.1\задание 6 тестирование.dll
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\bin\Debug\netcoreapp3.1\задание 6 тестирование.pdb
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\obj\Debug\netcoreapp3.1\задание 6 тестирование.csproj.AssemblyReference.cache
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\obj\Debug\netcoreapp3.1\задание 6 тестирование.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\obj\Debug\netcoreapp3.1\задание 6 тестирование.AssemblyInfoInputs.cache
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\obj\Debug\netcoreapp3.1\задание 6 тестирование.AssemblyInfo.cs
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\obj\Debug\netcoreapp3.1\задание 6 тестирование.csproj.CoreCompileInputs.cache
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\obj\Debug\netcoreapp3.1\задание 6 тестирование.dll
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\obj\Debug\netcoreapp3.1\задание 6 тестирование.pdb
+C:\Users\makss\source\repos\задание 6 тестирование\задание 6 тестирование\obj\Debug\netcoreapp3.1\задание 6 тестирование.genruntimeconfig.cache
